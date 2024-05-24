@@ -1,0 +1,72 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/coronary-heart-disease-angina---primary.py
+inputModule3:
+  class: File
+  path: python/coronary-heart-disease-insufficiency---primary.py
+inputModule4:
+  class: File
+  path: python/unstable-coronary-heart-disease---primary.py
+inputModule5:
+  class: File
+  path: python/coronary-heart-disease-pectoris---primary.py
+inputModule6:
+  class: File
+  path: python/coronary-heart-disease-preinfarction---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-heart-disease-specified---primary.py
+inputModule8:
+  class: File
+  path: python/coronary-heart-disease-forms---primary.py
+inputModule9:
+  class: File
+  path: python/coronary-heart-disease-ischaemia---primary.py
+inputModule10:
+  class: File
+  path: python/atherosclerotic-coronary-heart-disease---primary.py
+inputModule11:
+  class: File
+  path: python/coronary-heart-disease-stenocardia---primary.py
+inputModule12:
+  class: File
+  path: python/coronary-heart-disease-vessel---primary.py
+inputModule13:
+  class: File
+  path: python/coronary-heart-disease-artery---primary.py
+inputModule14:
+  class: File
+  path: python/coronary-heart-disease-dressler's---primary.py
+inputModule15:
+  class: File
+  path: python/coronary-heart-disease-crescendo---primary.py
+inputModule16:
+  class: File
+  path: python/coronary-heart-disease---primary.py
+inputModule17:
+  class: File
+  path: python/coronary-heart-disease-decubitus---primary.py
+inputModule18:
+  class: File
+  path: python/coronary-heart-disease-subacute---primary.py
+inputModule19:
+  class: File
+  path: python/coronary-heart-disease-effort---primary.py
+inputModule20:
+  class: File
+  path: python/asymptomatic-coronary-heart-disease---primary.py
+inputModule21:
+  class: File
+  path: python/coronary-heart-disease-anginosus---primary.py
+inputModule22:
+  class: File
+  path: python/coronary-heart-disease-hypertension---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
